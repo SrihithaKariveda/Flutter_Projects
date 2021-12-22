@@ -1,4 +1,4 @@
-# weather app
+# Preliminary Weather App
 
 A new Flutter project.
 
